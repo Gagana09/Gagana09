@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagana Acharya</h1>
-- 🌱 I’m currently learning **DSA & ML**
+- 🌱 I’m currently learning DSA & ML
 
 - 📫 How to reach me **acharyagagana@gmail.com**
 

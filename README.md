@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning DSA & ML
 
 - 📫 How to reach me **acharyagagana@gmail.com**
-- - 📝 [My Resume](https://drive.google.com/file/d/1Oz_xsE5UoLBXuNPaCMzWwlpx5v-xMQgV/view?usp=drive_link)  
+- 📝 [My Resume](https://drive.google.com/file/d/1Oz_xsE5UoLBXuNPaCMzWwlpx5v-xMQgV/view?usp=drive_link)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
